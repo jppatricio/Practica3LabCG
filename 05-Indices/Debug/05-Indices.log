@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\patum\source\repos\labcgeihc\practica3\05-indices\src\main.cpp(351): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\patum\source\repos\labcgeihc\practica3\05-indices\src\main.cpp(352): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+glfw3.lib(context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(init.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(input.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(window.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_tls.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_tls.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\patum\source\repos\LabCGeIHC\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
+  05-Indices.vcxproj -> C:\Users\patum\source\repos\LabCGeIHC\Debug\05-Indices.exe
